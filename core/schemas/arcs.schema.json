@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://novel-project.dev/schemas/arcs.schema.json",
+  "type": "object",
+  "required": ["arcs"],
+  "properties": {
+    "arcs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "type", "status", "progress", "summary", "target", "relatedCharacters", "lastAdvancedChapter", "locked"],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "title": { "type": "string", "minLength": 1 },
+          "type": { "enum": ["main", "character", "relationship", "mystery", "growth", "world", "career", "power", "other"] },
+          "status": { "enum": ["planned", "active", "paused", "resolved", "abandoned"] },
+          "progress": { "type": "number", "minimum": 0, "maximum": 100 },
+          "summary": { "type": "string" },
+          "target": { "type": "string" },
+          "relatedCharacters": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+          "lastAdvancedChapter": { "type": "integer", "minimum": 0 },
+          "locked": { "type": "boolean" }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

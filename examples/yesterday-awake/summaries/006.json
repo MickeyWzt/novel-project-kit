@@ -1,0 +1,25 @@
+{
+  "chapter": 6,
+  "title": "图书馆闭馆后",
+  "summary": "林夏在第 6 天获得一条与梦境来源有关的新线索。",
+  "wordCount": 4000,
+  "characters": [
+    "lin-xia",
+    "lin-father"
+  ],
+  "locations": [
+    "school-library"
+  ],
+  "events": [
+    "event-006"
+  ],
+  "arcUpdates": [
+    "arc-dreamer"
+  ],
+  "plotUpdates": [
+    "plot-06"
+  ],
+  "foreshadowingUpdates": [
+    "f-open-06"
+  ]
+}

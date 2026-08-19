@@ -1,0 +1,46 @@
+{
+  "name": "novel-project-kit",
+  "version": "0.1.0-beta.0",
+  "private": true,
+  "type": "module",
+  "description": "Local-first novel project format, validator, skill, and viewer.",
+  "license": "MIT",
+  "homepage": "https://mickeywzt.github.io/novel-project-kit/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MickeyWzt/novel-project-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MickeyWzt/novel-project-kit/issues"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "bin": {
+    "novel": "./bin/novel.mjs"
+  },
+  "scripts": {
+    "dev": "npm run prepare:demo && vite --host 0.0.0.0",
+    "prepare:demo": "node scripts/build-demo-bundle.mjs",
+    "build": "npm run prepare:demo && tsc -b && vite build",
+    "check": "tsc -b --pretty false",
+    "test": "node --test tests/*.test.mjs",
+    "validate:demo": "node bin/novel.mjs validate examples/yesterday-awake",
+    "validate:template": "node bin/novel.mjs validate novel-skill/assets/novel-project-template"
+  },
+  "dependencies": {
+    "ajv": "^8.20.0",
+    "ajv-formats": "^3.0.1",
+    "lucide-react": "^1.32.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-markdown": "^10.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "@vitejs/plugin-react": "^6.0.5",
+    "typescript": "^7.0.2",
+    "vite": "^8.2.1"
+  }
+}

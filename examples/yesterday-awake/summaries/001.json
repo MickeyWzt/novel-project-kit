@@ -1,0 +1,24 @@
+{
+  "chapter": 1,
+  "title": "另一个清晨",
+  "summary": "林夏在第 1 天获得一条与梦境来源有关的新线索。",
+  "wordCount": 4000,
+  "characters": [
+    "lin-xia"
+  ],
+  "locations": [
+    "lin-home"
+  ],
+  "events": [
+    "event-001"
+  ],
+  "arcUpdates": [
+    "arc-dreamer"
+  ],
+  "plotUpdates": [
+    "plot-01"
+  ],
+  "foreshadowingUpdates": [
+    "f-open-01"
+  ]
+}

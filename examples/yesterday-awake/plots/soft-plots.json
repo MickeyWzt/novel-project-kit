@@ -1,0 +1,117 @@
+{
+  "plots": [
+    {
+      "id": "plot-01",
+      "title": "校园档案失窃",
+      "status": "active",
+      "purpose": "提供线索",
+      "summary": "与当前主线交织的可调整支线。",
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "introducedChapter": 2,
+      "lastAdvancedChapter": 21,
+      "locked": false
+    },
+    {
+      "id": "plot-02",
+      "title": "陈言的隐瞒",
+      "status": "active",
+      "purpose": "改变关系",
+      "summary": "与当前主线交织的可调整支线。",
+      "relatedCharacters": [
+        "lin-xia",
+        "chen-yan"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "introducedChapter": 3,
+      "lastAdvancedChapter": 22,
+      "locked": false
+    },
+    {
+      "id": "plot-03",
+      "title": "父亲的旧相机",
+      "status": "active",
+      "purpose": "揭露过去",
+      "summary": "与当前主线交织的可调整支线。",
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-origin"
+      ],
+      "introducedChapter": 4,
+      "lastAdvancedChapter": 23,
+      "locked": false
+    },
+    {
+      "id": "plot-04",
+      "title": "母亲留下的录音",
+      "status": "active",
+      "purpose": "连接母亲",
+      "summary": "与当前主线交织的可调整支线。",
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-origin"
+      ],
+      "introducedChapter": 5,
+      "lastAdvancedChapter": 24,
+      "locked": false
+    },
+    {
+      "id": "plot-05",
+      "title": "图书管理员的身份",
+      "status": "active",
+      "purpose": "制造误导",
+      "summary": "与当前主线交织的可调整支线。",
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-origin"
+      ],
+      "introducedChapter": 6,
+      "lastAdvancedChapter": 25,
+      "locked": false
+    },
+    {
+      "id": "plot-06",
+      "title": "河堤蓝灯",
+      "status": "active",
+      "purpose": "扩大世界观",
+      "summary": "与当前主线交织的可调整支线。",
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-origin"
+      ],
+      "introducedChapter": 7,
+      "lastAdvancedChapter": 26,
+      "locked": false
+    },
+    {
+      "id": "plot-07",
+      "title": "现实伤痕",
+      "status": "active",
+      "purpose": "提高代价",
+      "summary": "与当前主线交织的可调整支线。",
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-origin"
+      ],
+      "introducedChapter": 8,
+      "lastAdvancedChapter": 27,
+      "locked": false
+    }
+  ]
+}

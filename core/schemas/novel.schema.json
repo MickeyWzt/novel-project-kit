@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://novel-project.dev/schemas/novel.schema.json",
+  "title": "Novel Project Manifest",
+  "type": "object",
+  "required": ["formatVersion", "id", "title", "language", "genres", "status", "createdAt", "updatedAt", "target", "current"],
+  "properties": {
+    "formatVersion": { "const": "1.0.0" },
+    "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]{1,63}$" },
+    "title": { "type": "string", "minLength": 1 },
+    "subtitle": { "type": "string" },
+    "author": { "type": "string" },
+    "language": { "type": "string", "minLength": 2 },
+    "genres": { "type": "array", "items": { "type": "string", "minLength": 1 }, "minItems": 1, "uniqueItems": true },
+    "status": { "enum": ["planning", "draft", "revision", "complete", "archived"] },
+    "createdAt": { "type": "string", "format": "date" },
+    "updatedAt": { "type": "string", "format": "date" },
+    "target": {
+      "type": "object",
+      "required": ["chapters", "wordsPerChapter"],
+      "properties": {
+        "chapters": { "type": "integer", "minimum": 1 },
+        "wordsPerChapter": { "type": "integer", "minimum": 100 }
+      },
+      "additionalProperties": false
+    },
+    "current": {
+      "type": "object",
+      "required": ["chapter", "wordCount"],
+      "properties": {
+        "chapter": { "type": "integer", "minimum": 0 },
+        "wordCount": { "type": "integer", "minimum": 0 }
+      },
+      "additionalProperties": false
+    },
+    "cover": {
+      "type": "object",
+      "properties": {
+        "concept": { "type": "string" },
+        "asset": { "type": ["string", "null"] },
+        "locked": { "type": "boolean" }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

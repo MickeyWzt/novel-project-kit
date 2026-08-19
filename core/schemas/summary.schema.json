@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://novel-project.dev/schemas/summary.schema.json",
+  "type": "object",
+  "required": ["chapter", "title", "summary", "wordCount", "characters", "locations", "events", "arcUpdates", "plotUpdates", "foreshadowingUpdates"],
+  "properties": {
+    "chapter": { "type": "integer", "minimum": 1 },
+    "title": { "type": "string", "minLength": 1 },
+    "summary": { "type": "string", "minLength": 1 },
+    "wordCount": { "type": "integer", "minimum": 0 },
+    "characters": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "locations": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "events": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "arcUpdates": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "plotUpdates": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "foreshadowingUpdates": { "type": "array", "items": { "type": "string" }, "uniqueItems": true }
+  },
+  "additionalProperties": false
+}

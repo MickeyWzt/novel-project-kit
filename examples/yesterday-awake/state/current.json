@@ -1,0 +1,43 @@
+{
+  "chapter": 27,
+  "phase": "第二幕",
+  "scene": "玻璃后的房间",
+  "storyDate": "第 27 天",
+  "activeArcs": [
+    "arc-dreamer",
+    "arc-father",
+    "arc-origin",
+    "arc-growth"
+  ],
+  "activePlots": [
+    "plot-01",
+    "plot-02",
+    "plot-03",
+    "plot-04",
+    "plot-05",
+    "plot-06",
+    "plot-07"
+  ],
+  "openForeshadowings": [
+    "f-open-01",
+    "f-open-02",
+    "f-open-03",
+    "f-open-04",
+    "f-open-05",
+    "f-open-06",
+    "f-open-07",
+    "f-open-08",
+    "f-open-09",
+    "f-open-10",
+    "f-open-11",
+    "f-open-12",
+    "f-dev-01",
+    "f-dev-02",
+    "f-dev-03",
+    "f-dev-04",
+    "f-dev-05",
+    "f-dev-06",
+    "f-dev-07"
+  ],
+  "lastUpdatedAt": "2026-08-19"
+}

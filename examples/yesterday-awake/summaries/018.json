@@ -1,0 +1,25 @@
+{
+  "chapter": 18,
+  "title": "被擦掉的名字",
+  "summary": "林夏在第 18 天获得一条与梦境来源有关的新线索。",
+  "wordCount": 4000,
+  "characters": [
+    "lin-xia",
+    "lin-father"
+  ],
+  "locations": [
+    "school-library"
+  ],
+  "events": [
+    "event-018"
+  ],
+  "arcUpdates": [
+    "arc-dreamer",
+    "arc-father",
+    "arc-origin"
+  ],
+  "plotUpdates": [
+    "plot-04"
+  ],
+  "foreshadowingUpdates": []
+}

@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#f4f0e8" />
+    <meta name="description" content="章法：完全在浏览器本地读取的小说项目可视化工具。" />
+    <title>章法 · Novel Project Viewer</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script>
+      if (location.protocol === 'file:') {
+        document.body.style.margin = '0'
+        document.body.style.background = '#f4f0e8'
+        document.getElementById('root').innerHTML = `
+          <main style="min-height:100vh;display:grid;place-items:center;padding:32px;box-sizing:border-box;color:#1f211f;font-family:'Microsoft YaHei',sans-serif">
+            <section style="width:min(620px,100%);padding:52px;border:1px solid #d8d0c3;background:#fffdf8;box-sizing:border-box">
+              <div style="color:#b73524;font:700 38px/1 SimSun,serif;letter-spacing:.18em">章法</div>
+              <h1 style="margin:34px 0 16px;font:700 28px/1.35 SimSun,serif">这个文件不能直接双击运行</h1>
+              <p style="margin:0;color:#6f6b63;line-height:1.9">章法需要通过本地服务器读取模块和示例项目。请关闭本页，然后双击同一目录里的 <strong style="color:#b73524">启动章法.cmd</strong>。</p>
+              <p style="margin:28px 0 0;padding-top:20px;border-top:1px solid #e9e3d9;color:#9a958c;font-size:13px;line-height:1.7">也可以在此目录运行：<code style="color:#1f211f">npm.cmd run dev</code><br>再打开 <code style="color:#1f211f">http://localhost:4173/</code></p>
+            </section>
+          </main>`
+      }
+    </script>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

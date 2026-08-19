@@ -1,0 +1,5 @@
+{
+  "rules": [
+    { "id": "rule-canon", "title": "正史优先", "description": "用户锁定的设定不可由 Agent 擅自覆盖", "locked": true }
+  ]
+}

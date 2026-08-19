@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://novel-project.dev/schemas/current.schema.json",
+  "type": "object",
+  "required": ["chapter", "phase", "scene", "storyDate", "activeArcs", "activePlots", "openForeshadowings", "lastUpdatedAt"],
+  "properties": {
+    "chapter": { "type": "integer", "minimum": 0 },
+    "phase": { "type": "string" },
+    "scene": { "type": "string" },
+    "storyDate": { "type": "string" },
+    "activeArcs": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "activePlots": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "openForeshadowings": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "lastUpdatedAt": { "type": "string", "format": "date" }
+  },
+  "additionalProperties": false
+}

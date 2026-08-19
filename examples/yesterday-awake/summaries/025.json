@@ -1,0 +1,25 @@
+{
+  "chapter": 25,
+  "title": "第三次敲门",
+  "summary": "林夏在第 25 天获得一条与梦境来源有关的新线索。",
+  "wordCount": 4000,
+  "characters": [
+    "lin-xia",
+    "chen-yan"
+  ],
+  "locations": [
+    "lin-home"
+  ],
+  "events": [
+    "event-025"
+  ],
+  "arcUpdates": [
+    "arc-dreamer",
+    "arc-father",
+    "arc-origin"
+  ],
+  "plotUpdates": [
+    "plot-04"
+  ],
+  "foreshadowingUpdates": []
+}

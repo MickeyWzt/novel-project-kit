@@ -1,0 +1,5 @@
+{
+  "locations": [
+    { "id": "start", "name": "故事起点", "type": "place", "summary": "等待创作者确认", "locked": false }
+  ]
+}

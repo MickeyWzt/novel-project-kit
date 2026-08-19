@@ -1,0 +1,26 @@
+{
+  "locks": [
+    {
+      "path": "story/direction.md",
+      "scope": "file",
+      "reason": "创作者确认的 Hard Plot",
+      "lockedAt": "2026-08-19"
+    },
+    {
+      "path": "world/rules.json",
+      "scope": "file",
+      "reason": "世界核心规则",
+      "lockedAt": "2026-08-19"
+    },
+    {
+      "path": "novel.json",
+      "scope": "fields",
+      "fields": [
+        "title",
+        "cover"
+      ],
+      "reason": "标题和封面概念已确认",
+      "lockedAt": "2026-08-19"
+    }
+  ]
+}

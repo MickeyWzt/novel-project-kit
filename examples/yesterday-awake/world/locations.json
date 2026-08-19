@@ -1,0 +1,25 @@
+{
+  "locations": [
+    {
+      "id": "lin-home",
+      "name": "林夏家",
+      "type": "home",
+      "summary": "带长走廊的旧公寓，父亲的暗房在尽头。",
+      "locked": false
+    },
+    {
+      "id": "school-library",
+      "name": "学校图书馆",
+      "type": "school",
+      "summary": "地下旧档案室曾被封闭。",
+      "locked": false
+    },
+    {
+      "id": "dream-room",
+      "name": "梦中房间",
+      "type": "dream",
+      "summary": "布局与林夏家相似，但窗外永远是雨夜。",
+      "locked": true
+    }
+  ]
+}

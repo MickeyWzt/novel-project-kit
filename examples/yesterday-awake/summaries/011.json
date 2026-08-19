@@ -1,0 +1,25 @@
+{
+  "chapter": 11,
+  "title": "没有寄出的录音",
+  "summary": "林夏在第 11 天获得一条与梦境来源有关的新线索。",
+  "wordCount": 4000,
+  "characters": [
+    "lin-xia",
+    "chen-yan"
+  ],
+  "locations": [
+    "lin-home"
+  ],
+  "events": [
+    "event-011"
+  ],
+  "arcUpdates": [
+    "arc-dreamer"
+  ],
+  "plotUpdates": [
+    "plot-04"
+  ],
+  "foreshadowingUpdates": [
+    "f-open-11"
+  ]
+}

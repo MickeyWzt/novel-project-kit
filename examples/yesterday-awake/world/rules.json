@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "id": "rule-trace",
+      "title": "梦境留痕",
+      "description": "梦境中的强烈伤害会在现实留下短暂痕迹。",
+      "locked": true
+    },
+    {
+      "id": "rule-two",
+      "title": "双人上限",
+      "description": "同一连接中最多有两名保持自我意识的人。",
+      "locked": true
+    },
+    {
+      "id": "rule-fact",
+      "title": "记忆不造物",
+      "description": "梦境只能重组真实发生或被感知过的信息。",
+      "locked": true
+    }
+  ]
+}

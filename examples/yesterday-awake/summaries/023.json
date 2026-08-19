@@ -1,0 +1,25 @@
+{
+  "chapter": 23,
+  "title": "无人接听",
+  "summary": "林夏在第 23 天获得一条与梦境来源有关的新线索。",
+  "wordCount": 4000,
+  "characters": [
+    "lin-xia",
+    "chen-yan"
+  ],
+  "locations": [
+    "lin-home"
+  ],
+  "events": [
+    "event-023"
+  ],
+  "arcUpdates": [
+    "arc-dreamer",
+    "arc-father",
+    "arc-origin"
+  ],
+  "plotUpdates": [
+    "plot-02"
+  ],
+  "foreshadowingUpdates": []
+}

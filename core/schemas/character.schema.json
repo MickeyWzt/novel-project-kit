@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://novel-project.dev/schemas/character.schema.json",
+  "type": "object",
+  "required": ["id", "name", "role", "summary", "status", "traits", "goals", "knowledge", "secrets", "relationships", "lastUpdatedChapter", "canon"],
+  "properties": {
+    "id": { "type": "string", "minLength": 1 },
+    "name": { "type": "string", "minLength": 1 },
+    "role": { "enum": ["protagonist", "deuteragonist", "antagonist", "supporting", "minor"] },
+    "summary": { "type": "string" },
+    "status": {
+      "type": "object",
+      "required": ["location", "condition", "emotion"],
+      "properties": {
+        "location": { "type": "string" },
+        "condition": { "type": "string" },
+        "emotion": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "traits": { "type": "array", "items": { "type": "string" } },
+    "goals": { "type": "array", "items": { "type": "string" } },
+    "knowledge": { "type": "array", "items": { "type": "string" } },
+    "secrets": { "type": "array", "items": { "type": "string" } },
+    "relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["characterId", "type", "strength", "note"],
+        "properties": {
+          "characterId": { "type": "string" },
+          "type": { "type": "string" },
+          "strength": { "type": "number", "minimum": -1, "maximum": 1 },
+          "note": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    },
+    "lastUpdatedChapter": { "type": "integer", "minimum": 0 },
+    "canon": {
+      "type": "object",
+      "required": ["lockedFields"],
+      "properties": { "lockedFields": { "type": "array", "items": { "type": "string" }, "uniqueItems": true } },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

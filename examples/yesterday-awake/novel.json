@@ -1,0 +1,29 @@
+{
+  "formatVersion": "1.0.0",
+  "id": "yesterday-awake",
+  "title": "昨日醒来的人",
+  "subtitle": "青春 · 悬疑 · 超自然",
+  "author": "示例创作者",
+  "language": "zh-CN",
+  "genres": [
+    "青春",
+    "悬疑",
+    "超自然"
+  ],
+  "status": "draft",
+  "createdAt": "2026-06-02",
+  "updatedAt": "2026-08-19",
+  "target": {
+    "chapters": 64,
+    "wordsPerChapter": 4000
+  },
+  "current": {
+    "chapter": 27,
+    "wordCount": 108420
+  },
+  "cover": {
+    "concept": "深夜窗前，玻璃倒影中的面孔比现实中的主角年长。",
+    "asset": null,
+    "locked": true
+  }
+}

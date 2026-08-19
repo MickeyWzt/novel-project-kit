@@ -1,0 +1,63 @@
+{
+  "arcs": [
+    {
+      "id": "arc-dreamer",
+      "title": "寻找另一个梦境者",
+      "type": "mystery",
+      "status": "active",
+      "progress": 42,
+      "summary": "林夏逐步确认梦中的人生属于一个真实存在的人。",
+      "target": "找到并面对另一个梦境者",
+      "relatedCharacters": [
+        "lin-xia",
+        "chen-yan"
+      ],
+      "lastAdvancedChapter": 27,
+      "locked": false
+    },
+    {
+      "id": "arc-father",
+      "title": "林夏与父亲的关系",
+      "type": "relationship",
+      "status": "active",
+      "progress": 68,
+      "summary": "沉默多年的父亲开始承认自己知道梦境。",
+      "target": "父女共同面对母亲失踪的真相",
+      "relatedCharacters": [
+        "lin-xia",
+        "lin-father"
+      ],
+      "lastAdvancedChapter": 27,
+      "locked": false
+    },
+    {
+      "id": "arc-origin",
+      "title": "梦境真正来源",
+      "type": "mystery",
+      "status": "active",
+      "progress": 24,
+      "summary": "线索指向一场被从记录中抹去的实验。",
+      "target": "揭开共享梦境的来源与代价",
+      "relatedCharacters": [
+        "lin-xia",
+        "lin-father"
+      ],
+      "lastAdvancedChapter": 25,
+      "locked": true
+    },
+    {
+      "id": "arc-growth",
+      "title": "林夏的自我信任",
+      "type": "growth",
+      "status": "active",
+      "progress": 37,
+      "summary": "林夏学习区分自己的记忆与他人的记忆。",
+      "target": "在真相面前仍能相信自己的选择",
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "lastAdvancedChapter": 26,
+      "locked": false
+    }
+  ]
+}

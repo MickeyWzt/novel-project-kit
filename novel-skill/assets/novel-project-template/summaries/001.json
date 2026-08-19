@@ -1,0 +1,12 @@
+{
+  "chapter": 1,
+  "title": "故事开始",
+  "summary": "主角站在故事起点。",
+  "wordCount": 18,
+  "characters": ["protagonist"],
+  "locations": ["start"],
+  "events": ["event-001"],
+  "arcUpdates": [],
+  "plotUpdates": [],
+  "foreshadowingUpdates": []
+}

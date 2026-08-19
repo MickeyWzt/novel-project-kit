@@ -1,0 +1,536 @@
+{
+  "foreshadowings": [
+    {
+      "id": "f-open-01",
+      "title": "未回收线索 1",
+      "status": "open",
+      "description": "尚未得到解释的具体细节。",
+      "plantedChapter": 1,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-origin"
+      ],
+      "lastAdvancedChapter": 9,
+      "locked": false
+    },
+    {
+      "id": "f-open-02",
+      "title": "未回收线索 2",
+      "status": "open",
+      "description": "尚未得到解释的具体细节。",
+      "plantedChapter": 2,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-origin"
+      ],
+      "lastAdvancedChapter": 10,
+      "locked": false
+    },
+    {
+      "id": "f-open-03",
+      "title": "未回收线索 3",
+      "status": "open",
+      "description": "尚未得到解释的具体细节。",
+      "plantedChapter": 3,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-origin"
+      ],
+      "lastAdvancedChapter": 11,
+      "locked": false
+    },
+    {
+      "id": "f-open-04",
+      "title": "未回收线索 4",
+      "status": "open",
+      "description": "尚未得到解释的具体细节。",
+      "plantedChapter": 4,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-origin"
+      ],
+      "lastAdvancedChapter": 12,
+      "locked": false
+    },
+    {
+      "id": "f-open-05",
+      "title": "未回收线索 5",
+      "status": "open",
+      "description": "尚未得到解释的具体细节。",
+      "plantedChapter": 5,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-origin"
+      ],
+      "lastAdvancedChapter": 13,
+      "locked": false
+    },
+    {
+      "id": "f-open-06",
+      "title": "未回收线索 6",
+      "status": "open",
+      "description": "尚未得到解释的具体细节。",
+      "plantedChapter": 6,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-origin"
+      ],
+      "lastAdvancedChapter": 14,
+      "locked": false
+    },
+    {
+      "id": "f-open-07",
+      "title": "未回收线索 7",
+      "status": "open",
+      "description": "尚未得到解释的具体细节。",
+      "plantedChapter": 7,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-origin"
+      ],
+      "lastAdvancedChapter": 15,
+      "locked": false
+    },
+    {
+      "id": "f-open-08",
+      "title": "未回收线索 8",
+      "status": "open",
+      "description": "尚未得到解释的具体细节。",
+      "plantedChapter": 8,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-origin"
+      ],
+      "lastAdvancedChapter": 16,
+      "locked": false
+    },
+    {
+      "id": "f-open-09",
+      "title": "未回收线索 9",
+      "status": "open",
+      "description": "尚未得到解释的具体细节。",
+      "plantedChapter": 9,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-origin"
+      ],
+      "lastAdvancedChapter": 17,
+      "locked": false
+    },
+    {
+      "id": "f-open-10",
+      "title": "未回收线索 10",
+      "status": "open",
+      "description": "尚未得到解释的具体细节。",
+      "plantedChapter": 10,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-origin"
+      ],
+      "lastAdvancedChapter": 18,
+      "locked": false
+    },
+    {
+      "id": "f-open-11",
+      "title": "未回收线索 11",
+      "status": "open",
+      "description": "尚未得到解释的具体细节。",
+      "plantedChapter": 11,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-origin"
+      ],
+      "lastAdvancedChapter": 19,
+      "locked": false
+    },
+    {
+      "id": "f-open-12",
+      "title": "未回收线索 12",
+      "status": "open",
+      "description": "尚未得到解释的具体细节。",
+      "plantedChapter": 12,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-origin"
+      ],
+      "lastAdvancedChapter": 20,
+      "locked": false
+    },
+    {
+      "id": "f-dev-01",
+      "title": "发展中线索 1",
+      "status": "developing",
+      "description": "已经出现第二层含义。",
+      "plantedChapter": 3,
+      "relatedCharacters": [
+        "lin-xia",
+        "chen-yan"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 20,
+      "locked": false
+    },
+    {
+      "id": "f-dev-02",
+      "title": "发展中线索 2",
+      "status": "developing",
+      "description": "已经出现第二层含义。",
+      "plantedChapter": 4,
+      "relatedCharacters": [
+        "lin-xia",
+        "chen-yan"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 21,
+      "locked": false
+    },
+    {
+      "id": "f-dev-03",
+      "title": "发展中线索 3",
+      "status": "developing",
+      "description": "已经出现第二层含义。",
+      "plantedChapter": 5,
+      "relatedCharacters": [
+        "lin-xia",
+        "chen-yan"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 22,
+      "locked": false
+    },
+    {
+      "id": "f-dev-04",
+      "title": "发展中线索 4",
+      "status": "developing",
+      "description": "已经出现第二层含义。",
+      "plantedChapter": 6,
+      "relatedCharacters": [
+        "lin-xia",
+        "chen-yan"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 23,
+      "locked": false
+    },
+    {
+      "id": "f-dev-05",
+      "title": "发展中线索 5",
+      "status": "developing",
+      "description": "已经出现第二层含义。",
+      "plantedChapter": 7,
+      "relatedCharacters": [
+        "lin-xia",
+        "chen-yan"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 24,
+      "locked": false
+    },
+    {
+      "id": "f-dev-06",
+      "title": "发展中线索 6",
+      "status": "developing",
+      "description": "已经出现第二层含义。",
+      "plantedChapter": 8,
+      "relatedCharacters": [
+        "lin-xia",
+        "chen-yan"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 25,
+      "locked": false
+    },
+    {
+      "id": "f-dev-07",
+      "title": "发展中线索 7",
+      "status": "developing",
+      "description": "已经出现第二层含义。",
+      "plantedChapter": 9,
+      "relatedCharacters": [
+        "lin-xia",
+        "chen-yan"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 26,
+      "locked": false
+    },
+    {
+      "id": "f-resolved-01",
+      "title": "已回收线索 1",
+      "status": "resolved",
+      "description": "已在前文中得到解释。",
+      "plantedChapter": 1,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 10,
+      "locked": false
+    },
+    {
+      "id": "f-resolved-02",
+      "title": "已回收线索 2",
+      "status": "resolved",
+      "description": "已在前文中得到解释。",
+      "plantedChapter": 1,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 11,
+      "locked": false
+    },
+    {
+      "id": "f-resolved-03",
+      "title": "已回收线索 3",
+      "status": "resolved",
+      "description": "已在前文中得到解释。",
+      "plantedChapter": 2,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 12,
+      "locked": false
+    },
+    {
+      "id": "f-resolved-04",
+      "title": "已回收线索 4",
+      "status": "resolved",
+      "description": "已在前文中得到解释。",
+      "plantedChapter": 3,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 13,
+      "locked": false
+    },
+    {
+      "id": "f-resolved-05",
+      "title": "已回收线索 5",
+      "status": "resolved",
+      "description": "已在前文中得到解释。",
+      "plantedChapter": 4,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 14,
+      "locked": false
+    },
+    {
+      "id": "f-resolved-06",
+      "title": "已回收线索 6",
+      "status": "resolved",
+      "description": "已在前文中得到解释。",
+      "plantedChapter": 5,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 15,
+      "locked": false
+    },
+    {
+      "id": "f-resolved-07",
+      "title": "已回收线索 7",
+      "status": "resolved",
+      "description": "已在前文中得到解释。",
+      "plantedChapter": 6,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 16,
+      "locked": false
+    },
+    {
+      "id": "f-resolved-08",
+      "title": "已回收线索 8",
+      "status": "resolved",
+      "description": "已在前文中得到解释。",
+      "plantedChapter": 7,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 17,
+      "locked": false
+    },
+    {
+      "id": "f-resolved-09",
+      "title": "已回收线索 9",
+      "status": "resolved",
+      "description": "已在前文中得到解释。",
+      "plantedChapter": 8,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 18,
+      "locked": false
+    },
+    {
+      "id": "f-resolved-10",
+      "title": "已回收线索 10",
+      "status": "resolved",
+      "description": "已在前文中得到解释。",
+      "plantedChapter": 9,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 19,
+      "locked": false
+    },
+    {
+      "id": "f-resolved-11",
+      "title": "已回收线索 11",
+      "status": "resolved",
+      "description": "已在前文中得到解释。",
+      "plantedChapter": 10,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 20,
+      "locked": false
+    },
+    {
+      "id": "f-resolved-12",
+      "title": "已回收线索 12",
+      "status": "resolved",
+      "description": "已在前文中得到解释。",
+      "plantedChapter": 11,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 21,
+      "locked": false
+    },
+    {
+      "id": "f-resolved-13",
+      "title": "已回收线索 13",
+      "status": "resolved",
+      "description": "已在前文中得到解释。",
+      "plantedChapter": 12,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 22,
+      "locked": false
+    },
+    {
+      "id": "f-resolved-14",
+      "title": "已回收线索 14",
+      "status": "resolved",
+      "description": "已在前文中得到解释。",
+      "plantedChapter": 13,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 23,
+      "locked": false
+    },
+    {
+      "id": "f-resolved-15",
+      "title": "已回收线索 15",
+      "status": "resolved",
+      "description": "已在前文中得到解释。",
+      "plantedChapter": 14,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 24,
+      "locked": false
+    },
+    {
+      "id": "f-resolved-16",
+      "title": "已回收线索 16",
+      "status": "resolved",
+      "description": "已在前文中得到解释。",
+      "plantedChapter": 15,
+      "relatedCharacters": [
+        "lin-xia"
+      ],
+      "relatedArcs": [
+        "arc-dreamer"
+      ],
+      "lastAdvancedChapter": 25,
+      "locked": false
+    }
+  ]
+}

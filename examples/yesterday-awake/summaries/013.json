@@ -1,0 +1,23 @@
+{
+  "chapter": 13,
+  "title": "陌生人的生日",
+  "summary": "林夏在第 13 天获得一条与梦境来源有关的新线索。",
+  "wordCount": 4000,
+  "characters": [
+    "lin-xia",
+    "chen-yan"
+  ],
+  "locations": [
+    "lin-home"
+  ],
+  "events": [
+    "event-013"
+  ],
+  "arcUpdates": [
+    "arc-dreamer"
+  ],
+  "plotUpdates": [
+    "plot-06"
+  ],
+  "foreshadowingUpdates": []
+}

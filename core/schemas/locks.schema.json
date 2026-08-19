@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://novel-project.dev/schemas/locks.schema.json",
+  "type": "object",
+  "required": ["locks"],
+  "properties": {
+    "locks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["path", "scope", "reason", "lockedAt"],
+        "properties": {
+          "path": { "type": "string", "minLength": 1 },
+          "scope": { "enum": ["file", "fields"] },
+          "fields": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+          "reason": { "type": "string" },
+          "lockedAt": { "type": "string", "format": "date" }
+        },
+        "additionalProperties": false,
+        "allOf": [
+          {
+            "if": { "properties": { "scope": { "const": "fields" } } },
+            "then": { "required": ["fields"] }
+          }
+        ]
+      }
+    }
+  },
+  "additionalProperties": false
+}

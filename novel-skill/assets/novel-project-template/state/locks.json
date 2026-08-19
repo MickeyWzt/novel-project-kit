@@ -1,0 +1,5 @@
+{
+  "locks": [
+    { "path": "world/rules.json", "scope": "file", "reason": "示例中的正史规则", "lockedAt": "2026-08-19" }
+  ]
+}

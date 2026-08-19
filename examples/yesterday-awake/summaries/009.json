@@ -1,0 +1,25 @@
+{
+  "chapter": 9,
+  "title": "陈言的谎言",
+  "summary": "林夏在第 9 天获得一条与梦境来源有关的新线索。",
+  "wordCount": 4000,
+  "characters": [
+    "lin-xia",
+    "lin-father"
+  ],
+  "locations": [
+    "lin-home"
+  ],
+  "events": [
+    "event-009"
+  ],
+  "arcUpdates": [
+    "arc-dreamer"
+  ],
+  "plotUpdates": [
+    "plot-02"
+  ],
+  "foreshadowingUpdates": [
+    "f-open-09"
+  ]
+}

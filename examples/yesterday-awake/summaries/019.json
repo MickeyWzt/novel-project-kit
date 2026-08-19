@@ -1,0 +1,25 @@
+{
+  "chapter": 19,
+  "title": "两个人的同一个梦",
+  "summary": "林夏在第 19 天获得一条与梦境来源有关的新线索。",
+  "wordCount": 4000,
+  "characters": [
+    "lin-xia",
+    "chen-yan"
+  ],
+  "locations": [
+    "lin-home"
+  ],
+  "events": [
+    "event-019"
+  ],
+  "arcUpdates": [
+    "arc-dreamer",
+    "arc-father",
+    "arc-origin"
+  ],
+  "plotUpdates": [
+    "plot-05"
+  ],
+  "foreshadowingUpdates": []
+}

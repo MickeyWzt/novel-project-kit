@@ -1,0 +1,15 @@
+{
+  "formatVersion": "1.0.0",
+  "id": "my-novel",
+  "title": "未命名小说",
+  "subtitle": "",
+  "author": "",
+  "language": "zh-CN",
+  "genres": ["未分类"],
+  "status": "planning",
+  "createdAt": "2026-08-19",
+  "updatedAt": "2026-08-19",
+  "target": { "chapters": 100, "wordsPerChapter": 4000 },
+  "current": { "chapter": 1, "wordCount": 18 },
+  "cover": { "concept": "", "asset": null, "locked": false }
+}

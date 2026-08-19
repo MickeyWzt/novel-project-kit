@@ -1,0 +1,25 @@
+{
+  "chapter": 21,
+  "title": "窗外的蓝灯",
+  "summary": "林夏在第 21 天获得一条与梦境来源有关的新线索。",
+  "wordCount": 4000,
+  "characters": [
+    "lin-xia",
+    "lin-father"
+  ],
+  "locations": [
+    "lin-home"
+  ],
+  "events": [
+    "event-021"
+  ],
+  "arcUpdates": [
+    "arc-dreamer",
+    "arc-father",
+    "arc-origin"
+  ],
+  "plotUpdates": [
+    "plot-07"
+  ],
+  "foreshadowingUpdates": []
+}

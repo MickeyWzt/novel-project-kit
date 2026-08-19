@@ -1,0 +1,47 @@
+{
+  "id": "lin-xia",
+  "name": "林夏",
+  "role": "protagonist",
+  "summary": "十七岁的高中生，开始在睡梦中进入另一个人的人生。",
+  "status": {
+    "location": "lin-home",
+    "condition": "轻度失眠",
+    "emotion": "焦虑、怀疑自己的记忆"
+  },
+  "traits": [
+    "敏锐",
+    "克制",
+    "不轻易求助"
+  ],
+  "goals": [
+    "找到另一个梦境者",
+    "弄清母亲失踪的真相"
+  ],
+  "knowledge": [
+    "梦境会留下现实伤痕",
+    "父亲曾研究相同现象"
+  ],
+  "secrets": [
+    "没有告诉陈言第 27 章看到的脸"
+  ],
+  "relationships": [
+    {
+      "characterId": "chen-yan",
+      "type": "朋友",
+      "strength": 0.74,
+      "note": "信任开始出现裂缝"
+    },
+    {
+      "characterId": "lin-father",
+      "type": "父女",
+      "strength": 0.42,
+      "note": "隔阂正在被迫打破"
+    }
+  ],
+  "lastUpdatedChapter": 27,
+  "canon": {
+    "lockedFields": [
+      "traits"
+    ]
+  }
+}

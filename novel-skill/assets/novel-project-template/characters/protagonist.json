@@ -1,0 +1,14 @@
+{
+  "id": "protagonist",
+  "name": "主角",
+  "role": "protagonist",
+  "summary": "等待创作者确认",
+  "status": { "location": "start", "condition": "正常", "emotion": "平静" },
+  "traits": [],
+  "goals": [],
+  "knowledge": [],
+  "secrets": [],
+  "relationships": [],
+  "lastUpdatedChapter": 1,
+  "canon": { "lockedFields": [] }
+}

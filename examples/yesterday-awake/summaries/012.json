@@ -1,0 +1,25 @@
+{
+  "chapter": 12,
+  "title": "镜子背面",
+  "summary": "林夏在第 12 天获得一条与梦境来源有关的新线索。",
+  "wordCount": 4000,
+  "characters": [
+    "lin-xia",
+    "lin-father"
+  ],
+  "locations": [
+    "school-library"
+  ],
+  "events": [
+    "event-012"
+  ],
+  "arcUpdates": [
+    "arc-dreamer"
+  ],
+  "plotUpdates": [
+    "plot-05"
+  ],
+  "foreshadowingUpdates": [
+    "f-open-12"
+  ]
+}

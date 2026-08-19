@@ -1,0 +1,16 @@
+{
+  "arcs": [
+    {
+      "id": "arc-main",
+      "title": "主线故事弧",
+      "type": "main",
+      "status": "planned",
+      "progress": 0,
+      "summary": "等待创作者确认",
+      "target": "等待创作者确认",
+      "relatedCharacters": ["protagonist"],
+      "lastAdvancedChapter": 0,
+      "locked": false
+    }
+  ]
+}

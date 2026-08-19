@@ -1,0 +1,25 @@
+{
+  "chapter": 5,
+  "title": "梦里的雨",
+  "summary": "林夏在第 5 天获得一条与梦境来源有关的新线索。",
+  "wordCount": 4000,
+  "characters": [
+    "lin-xia",
+    "chen-yan"
+  ],
+  "locations": [
+    "lin-home"
+  ],
+  "events": [
+    "event-005"
+  ],
+  "arcUpdates": [
+    "arc-dreamer"
+  ],
+  "plotUpdates": [
+    "plot-05"
+  ],
+  "foreshadowingUpdates": [
+    "f-open-05"
+  ]
+}

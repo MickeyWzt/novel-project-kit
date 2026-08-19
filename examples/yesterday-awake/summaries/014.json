@@ -1,0 +1,23 @@
+{
+  "chapter": 14,
+  "title": "学校旧档案",
+  "summary": "林夏在第 14 天获得一条与梦境来源有关的新线索。",
+  "wordCount": 4000,
+  "characters": [
+    "lin-xia",
+    "chen-yan"
+  ],
+  "locations": [
+    "school-library"
+  ],
+  "events": [
+    "event-014"
+  ],
+  "arcUpdates": [
+    "arc-dreamer"
+  ],
+  "plotUpdates": [
+    "plot-07"
+  ],
+  "foreshadowingUpdates": []
+}

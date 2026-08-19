@@ -1,0 +1,40 @@
+{
+  "id": "lin-father",
+  "name": "林父",
+  "role": "supporting",
+  "summary": "林夏的父亲，曾参与一项与共享梦境有关的研究。",
+  "status": {
+    "location": "lin-home",
+    "condition": "旧伤复发",
+    "emotion": "知道梦境的存在"
+  },
+  "traits": [
+    "沉默",
+    "谨慎",
+    "负罪感"
+  ],
+  "goals": [
+    "阻止林夏继续进入梦境"
+  ],
+  "knowledge": [
+    "母亲并非普通失踪",
+    "玻璃后的空间是真实的"
+  ],
+  "secrets": [
+    "他亲手关闭了最初的实验"
+  ],
+  "relationships": [
+    {
+      "characterId": "lin-xia",
+      "type": "父女",
+      "strength": 0.42,
+      "note": "决定说出部分真相"
+    }
+  ],
+  "lastUpdatedChapter": 27,
+  "canon": {
+    "lockedFields": [
+      "secrets"
+    ]
+  }
+}

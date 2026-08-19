@@ -1,0 +1,24 @@
+{
+  "chapter": 2,
+  "title": "不属于我的房间",
+  "summary": "林夏在第 2 天获得一条与梦境来源有关的新线索。",
+  "wordCount": 4000,
+  "characters": [
+    "lin-xia"
+  ],
+  "locations": [
+    "school-library"
+  ],
+  "events": [
+    "event-002"
+  ],
+  "arcUpdates": [
+    "arc-dreamer"
+  ],
+  "plotUpdates": [
+    "plot-02"
+  ],
+  "foreshadowingUpdates": [
+    "f-open-02"
+  ]
+}

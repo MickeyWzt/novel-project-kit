@@ -1,0 +1,37 @@
+{
+  "id": "chen-yan",
+  "name": "陈言",
+  "role": "deuteragonist",
+  "summary": "林夏的同学，擅长从档案和设备记录中寻找线索。",
+  "status": {
+    "location": "school-library",
+    "condition": "正常",
+    "emotion": "开始隐瞒线索"
+  },
+  "traits": [
+    "理性",
+    "好奇",
+    "保护欲强"
+  ],
+  "goals": [
+    "证明梦境有现实来源"
+  ],
+  "knowledge": [
+    "学校档案曾被人为修改"
+  ],
+  "secrets": [
+    "私下复制了母亲录音"
+  ],
+  "relationships": [
+    {
+      "characterId": "lin-xia",
+      "type": "朋友",
+      "strength": 0.74,
+      "note": "担心真相伤害林夏"
+    }
+  ],
+  "lastUpdatedChapter": 26,
+  "canon": {
+    "lockedFields": []
+  }
+}

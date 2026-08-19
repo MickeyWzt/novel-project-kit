@@ -1,0 +1,25 @@
+{
+  "chapter": 7,
+  "title": "第二个梦境者",
+  "summary": "林夏在第 7 天获得一条与梦境来源有关的新线索。",
+  "wordCount": 4000,
+  "characters": [
+    "lin-xia",
+    "chen-yan"
+  ],
+  "locations": [
+    "lin-home"
+  ],
+  "events": [
+    "event-007"
+  ],
+  "arcUpdates": [
+    "arc-dreamer"
+  ],
+  "plotUpdates": [
+    "plot-07"
+  ],
+  "foreshadowingUpdates": [
+    "f-open-07"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "chapter": 10,
+  "title": "河堤上的鞋印",
+  "summary": "林夏在第 10 天获得一条与梦境来源有关的新线索。",
+  "wordCount": 4000,
+  "characters": [
+    "lin-xia",
+    "chen-yan"
+  ],
+  "locations": [
+    "school-library"
+  ],
+  "events": [
+    "event-010"
+  ],
+  "arcUpdates": [
+    "arc-dreamer"
+  ],
+  "plotUpdates": [
+    "plot-03"
+  ],
+  "foreshadowingUpdates": [
+    "f-open-10"
+  ]
+}
