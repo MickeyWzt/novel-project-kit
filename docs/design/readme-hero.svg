@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="520" viewBox="0 0 1440 520" role="img" aria-labelledby="title desc">
+  <title id="title">章法 Novel Project Kit</title>
+  <desc id="desc">把长篇小说当作可校验的软件项目。Format、Agent Skill、Validator 与本地 Viewer 组成完整创作闭环。</desc>
+  <rect width="1440" height="520" fill="#f4f0e8"/>
+  <rect x="32" y="32" width="1376" height="456" rx="8" fill="#fffdf8" stroke="#d8d0c3"/>
+  <path d="M92 32v456M96 32v456" stroke="#b73524" stroke-width="2" opacity=".82"/>
+  <g fill="none" stroke="#d8d0c3" opacity=".65">
+    <path d="M96 136h1312M96 384h1312"/>
+    <path d="M426 136v248M758 136v248M1090 136v248" stroke-dasharray="3 8"/>
+  </g>
+
+  <g font-family="'Noto Serif SC','Songti SC','Microsoft YaHei',serif">
+    <text x="150" y="222" fill="#b73524" font-size="112" font-weight="500" letter-spacing="14">章法</text>
+    <text x="156" y="270" fill="#6f6b63" font-size="20" letter-spacing="8">NOVEL PROJECT KIT</text>
+    <text x="496" y="208" fill="#1f211f" font-size="48" font-weight="500">把长篇小说</text>
+    <text x="496" y="274" fill="#1f211f" font-size="48" font-weight="500">当作可校验的软件项目</text>
+    <text x="500" y="326" fill="#6f6b63" font-size="22">Agent 负责写作，文件保存记忆，Validator 守住一致性。</text>
+  </g>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',sans-serif" font-size="15" letter-spacing="1.5">
+    <g transform="translate(150 420)">
+      <circle cx="8" cy="-5" r="8" fill="#b73524"/>
+      <text x="28" y="0" fill="#1f211f">FORMAT V1</text>
+    </g>
+    <path d="M302 415h42" stroke="#d8d0c3"/>
+    <g transform="translate(366 420)">
+      <circle cx="8" cy="-5" r="8" fill="#b73524"/>
+      <text x="28" y="0" fill="#1f211f">AGENT SKILL</text>
+    </g>
+    <path d="M536 415h42" stroke="#d8d0c3"/>
+    <g transform="translate(600 420)">
+      <circle cx="8" cy="-5" r="8" fill="#68764b"/>
+      <text x="28" y="0" fill="#1f211f">VALIDATOR</text>
+    </g>
+    <path d="M758 415h42" stroke="#d8d0c3"/>
+    <g transform="translate(822 420)">
+      <circle cx="8" cy="-5" r="8" fill="#68764b"/>
+      <text x="28" y="0" fill="#1f211f">LOCAL VIEWER</text>
+    </g>
+    <text x="1180" y="420" fill="#6f6b63">LOCAL-FIRST · v0.1 BETA</text>
+  </g>
+</svg>
